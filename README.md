@@ -1,2 +1,0 @@
-# KoroTest
-test
